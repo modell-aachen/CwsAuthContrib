@@ -1,0 +1,13 @@
+%META:TOPICINFO{author="" comment="" date="1423841320" format="1.1" version="1"}%
+---+!! %TOPIC%
+%TOC%
+---++ Introduction
+Use special HTTP header to login using the CwsAuth mod for Apache.
+
+| Author: | Foswiki:Main.SvenMeyer |
+| Copyright: | &copy; 2016, Modell Aachen GmbH |
+| License: | GPL ([[http://www.gnu.org/copyleft/gpl.html][GNU General Public License]]) |
+| Release: | %$RELEASE% |
+| Version: | %$VERSION% |
+| Home: | http://www.modell-aachen.de |
+| Support: | http://www.modell-aachen.de |
