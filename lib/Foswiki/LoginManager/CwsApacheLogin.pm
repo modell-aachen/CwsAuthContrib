@@ -16,7 +16,7 @@ sub new {
 sub getUser {
   my $self = shift;
   my $query = $self->{session}->{request};
-  my $user = $query->http('HTTP_SAMACCOUNTNAME');
+  my $user = $query->http('catcupid'); # XXX this should be configurable
   return $user;
 }
 
